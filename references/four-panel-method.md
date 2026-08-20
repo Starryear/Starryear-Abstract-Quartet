@@ -50,7 +50,7 @@ Use the original photographic material unchanged apart from the approved 2:1 cro
 - Never apply a paper texture, illustration style, cinematic grade, or AI “enhancement.”
 - Never add labels or captions.
 
-## Panel 2 — photo-abstract-editorial
+## Panel 2 — Starryear Memory Translation
 
 ### Function
 
@@ -75,7 +75,7 @@ Use a restrained palette derived from the photograph. Paper texture should be fi
 - painterly brushwork, fantasy fog, surreal objects, or unrelated symbolism;
 - flattening the whole scene into the same softness.
 
-## Panel 3 — travel-photo-abstraction
+## Panel 3 — Starryear Structural Distillation
 
 ### Function
 
