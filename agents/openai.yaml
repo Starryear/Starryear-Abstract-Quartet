@@ -1,0 +1,4 @@
+interface:
+  display_name: "Starryear-Abstract-Quartet"
+  short_description: "将一张照片转译为现实、记忆、抽象与再解释的竖向四联作品"
+  default_prompt: "Use $starryear-abstract-quartet to transform my photograph into a vertical four-panel artwork."
