@@ -14,10 +14,10 @@
 
 ## 四联结构
 
-1. 原始照片
-2. photo-abstract-editorial
-3. travel-photo-abstraction
-4. 两种视觉语言的融合版
+1. 原始证据｜Original Evidence
+2. 记忆转译｜Starryear Memory Translation
+3. 结构提纯｜Starryear Structural Distillation
+4. 余像融合｜Starryear Afterimage Fusion
 
 四幅等高的 2:1 横向画面上下排列，最终组成 1:2 竖版作品。无边框、无标签、无文字、无 Logo。
 
